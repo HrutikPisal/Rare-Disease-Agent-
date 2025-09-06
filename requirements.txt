@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+langchain_community
+python-dotenv
+tiktoken
+chromadb
+ipykernel
+pypdf
+biopython
